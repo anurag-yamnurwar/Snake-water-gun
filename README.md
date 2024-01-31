@@ -1,1 +1,1 @@
-<h2>Web Development Internship Projects</h2>
+<h1>Web Development Internship Projects</h1>
